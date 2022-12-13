@@ -1,0 +1,115 @@
+body {
+  background-color: black;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #58cc27;
+  border-bottom: 1px solid #58cc27;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: left;
+}
+
+li {
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-transform: none;
+  display: inline-block;
+  width: 100px;  
+}
+
+li:hover {
+  color: black;
+}
+
+h1 {
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-transform:none;
+}
+h2 {
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-transform:none;
+}
+
+h3 {
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-transform:none;
+  position: fixed;
+  
+}
+
+p {
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px;
+}
+
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
+}
+
+.introduction {
+  padding: 40px;
+  text-align: left;
+  width: 100%;
+  position: relative;
+  top: 200px;
+}
+
+img {
+    width: 600px;
+
+    
+}
+
+.contactbox {
+  padding: 40px;
+  text-align: left;
+  width: 100%;
+  position: relative;
+  top: 200px;
+}
+
+.mid {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  width: 100px;  
+}
+
+div {
+    
+}
+
+
+
+figcaption {
+    color: white
+}
